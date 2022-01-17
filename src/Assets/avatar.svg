@@ -87,7 +87,7 @@
                             <mask id="mask-14" fill="white">
                                 <use xlink:href="#path-13"></use>
                             </mask>
-                            <use id="Short-Hair" stroke="none" fill="#1F3140" fill-rule="evenodd" xlink:href="#path-13"></use>
+                            <use id="Long-Hair" stroke="none" fill="#1F3140" fill-rule="evenodd" xlink:href="#path-13"></use>
                             <g id="Color/Hair/Brown-Dark" stroke="none" fill="none" mask="url(#mask-14)" fill-rule="evenodd">
                                 <g transform="translate(-43.100000, -15.000000)" fill="#4A312C" id="Color">
                                     <rect x="0" y="0" width="239.106977" height="252.406452"></rect>

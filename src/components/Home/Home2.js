@@ -15,7 +15,7 @@ function Home2() {
               LEMME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am just a  random  dude who stubornly chants the mantra of  : <br />
+              I am just a  Random  dude who stubornly chants the mantra of  : <br />
               I see it, I like it, I learn it, I code it.
               <br />I am decent in classics like
               <i>
