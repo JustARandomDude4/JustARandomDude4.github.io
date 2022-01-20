@@ -74,6 +74,8 @@ function Resume() {
               content={[
                 `🏅 Won 2nd Prize in Hack Revolution 🏅 \n🔗 Awarded for devoloping a product called MemEthereum.`,
                 `🔗 A web app that uses Ethereum based smart contracts to monetise memes`,
+                        `🏅 Won 1st Prize in Problem Plethora 🏅 \n🔗 Awarded for identifing the problem of Accomodation in Hostels in India pitching a bussiness plan to solve it.`,
+              
               ]}
             />
           </Col>
