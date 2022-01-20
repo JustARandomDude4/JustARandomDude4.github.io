@@ -42,11 +42,11 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="Junior Web Developer"
-              date="November 2020 - May 2021"
+              title="Project Intern"
+              date="January 2022 - Present"
               content={[
-                "Developed Small Java Projects and learnt the basics of web and programming.",
-                "Learning Full Stack Web Development using HTML, CSS, JS, Bootstrap, Javascript and many more JavaScript Libraries and Frameworks!",
+                "Working on the project of  building a website  in Springboot and  Angular for a startup called Advorator. ",
+                "Also learning Full Stack Web Development using HTML, CSS, Bootstrap, Javascript and  JavaScript Libraries and Frameworks like p5.js ,three.js ,node.js, React.js",
               ]}
   
             />
@@ -72,8 +72,8 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                `🏅 Won 2nd Prize in Hack Revolution 🏅 -  Awarded for devoloping a product called MemEthereum.`,
-                `A web app that uses Ethereum based smart contracts to monetise memes`,
+                `🏅 Won 2nd Prize in Hack Revolution 🏅 \n🔗 Awarded for devoloping a product called MemEthereum.`,
+                `🔗 A web app that uses Ethereum based smart contracts to monetise memes`,
               ]}
             />
           </Col>

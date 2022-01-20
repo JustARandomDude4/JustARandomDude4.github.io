@@ -15,15 +15,16 @@ function Home2() {
               LEMME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am just a  Random  dude who stubornly chants the mantra of  : <br />
-              I see it, I like it, I learn it, I code it.
-              <br />I am decent in classics like
+              I am a Sophomore in Computer Science, from Hyderabad.
+               <br />
+              I See.Like.Learn.Code.In that exact order.
+              <br />I am decent with
               <i>
                 <b className="purple"> Java, Python,HTML, CSS and Javascript. </b>
               </i>
               <br />
               <br />
-              My current eye focus is on &nbsp;
+              My current  focus is on &nbsp;
               <i>
                 <b className="purple">
                    Front end devolopment
@@ -31,14 +32,13 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also mess with code for developing products
-              with
+              Whenever possible, I also mess around with 
               <i>
                 <b className="purple"> Modern Javascript Frameworks</b>
               </i>
-                &nbsp; like
+                &nbsp; like - <br />
               <i>
-                <b className="purple"> Node.js and React.js</b>
+                <b className="purple"> p5.js, Node.js, three.js, React.js</b>
               </i>
             </p>
           </Col>

@@ -10,20 +10,20 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Ya'll, I am <span className="purple">Satwika</span>,
-            <br />I don't like giving boring intros, so I shall skip this part.
+            <br />I don't like giving boring intros, so imma skip this part.
             <br />
             <br />
-            Apart from being sarcastic, these are what I love to invest my time on-
+            Apart from being sarcastic, these are what I love -
           </p>
           <ul>
             <li className="about-activity">
-              <i className="far fa-hand-point-right"></i> Tryna be  financially savvy.
+              <i className="far fa-hand-point-right"></i>☂ Tryna be  financially savvy.
             </li>
             <li className="about-activity">
-              <i className="far fa-hand-point-right"></i> Read and observe a lot of Bussiness and Marketing.
+              <i className="far fa-hand-point-right"></i>☂ Read and observe a lot of Bussiness and Marketing.
             </li>
             <li className="about-activity">
-              <i className="far fa-hand-point-right"></i> Doodle like Dora ,sing  like a Jeon, dance like SpongeBob.
+              <i className="far fa-hand-point-right"></i>☂ Doodle like Dora ,sing  like a Jeon, dance like SpongeBob.
             </li>
           </ul>
 

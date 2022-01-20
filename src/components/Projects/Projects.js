@@ -41,7 +41,7 @@ function Projects() {
               imgPath={magic}
               isBlog={false}
               title="Illusion of a cube wave"
-              description="I have always hated math 😣😣, and I felt like I somehow need to reduce that wrath for it, as its a nice subject and it doesnt deserve my eye roll. So, I decided to learn math by making fun projects that are not only a feast to the eyes, but teach me a lot of concept of how animations work. And there u go, I made a cubeWave.💁‍♀️💁‍♀️😋"
+              description="I have always hated math 😣😣, and I felt like I somehow need to reduce that wrath for it, as its a nice subject and it doesnt deserve my eye roll.\n So, I decided to learn math by making fun projects that are not only a feast to the eyes, but teach me a lot of concept of how animations work. And there u go, I made a cubeWave.💁‍♀️"
               link="https://github.com/JustARandomDude4/IlusionOfCubeWave"
             />
           </Col>
@@ -71,7 +71,7 @@ function Projects() {
               imgPath={hp}
               isBlog={false}
               title="Discord Bot"
-              description="A customised birthday Discord Bot"
+              description="A customised birthday Discord Bot. The bot uses slash commands, where the user can select an option of /wish /gift /sendlove etc and send wishes to their loved ones."
               link="https://github.com/JustARandomDude4/Satwi-sFirstDiscordBot"
             />
           </Col>
