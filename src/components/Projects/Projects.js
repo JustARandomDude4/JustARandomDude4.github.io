@@ -7,12 +7,12 @@ import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import simon from "../../Assets/Projects/simon.png";
-import magic from "../../Assets/Projects/magic.jpg";
-import phoenix from "../../Assets/Projects/phoenix.png";
+import magic from "../../Assets/Projects/magic.png";
+import phoenix from "../../Assets/Projects/phoenix.jpg";
 import hp from "../../Assets/Projects/hp.png";
 import galga from "../../Assets/Projects/galga.png";
-import algo from "../../Assets/Projects/algo.png";
-import plant from "../../Assets/Projects/plant.jpeg";
+
+
 
 function Projects() {
   return (
